@@ -1,6 +1,6 @@
 # My-Closet
 
-A database to store all of my clothing items.
+A database to store all of my clothing items in my closet.
 
 ## Features:
 - Ability to filter by category, weather, etc.
